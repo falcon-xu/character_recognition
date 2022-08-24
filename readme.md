@@ -237,3 +237,22 @@ result: {'CRNNAccuracy': 0.7892621303474017}
 └─ generate_dataset.py						# convert dgrl file to jpg file
 ```
 
+
+
+## Citing our work
+
+```
+## Citing
+
+## BibTeX
+
+@misc{character_recognition
+	author = {Falcon Xu},
+	titile = {Chinese Handwriting Character Recognition},
+	year = {2021},
+	publisher = {GitHub},
+	journal = {GitHub repository},
+	howpublished = {\url{https://github.com/lostsword/character_recognition}}
+}
+```
+
